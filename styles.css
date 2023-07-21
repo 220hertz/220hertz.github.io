@@ -1,4 +1,6 @@
 body {
     background-color: black;
-    color:#fff
+    color:#fff;
+    display:flex;
+    position:relative;
 }
