@@ -4,3 +4,10 @@ body {
     position:relative;
     margin:auto;
 }
+p {
+    font-size: 18px;
+    color:#fff
+}
+img {
+    width:400px
+}
